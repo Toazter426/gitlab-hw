@@ -17,11 +17,11 @@
 Желаем успехов в выполнении домашнего задания!
 ### Задание 1
 
-![пустой проект](ссылка на скриншот 1)
+![пустой проект](https://github.com/Toazter426/gitlab-hw/blob/master/img/img-hw-2.png)
 
-![регистрация раннера](ссылка на скриншот 1)
+![регистрация раннера](https://github.com/Toazter426/gitlab-hw/blob/master/img/img-hw-1.png)
 ### Задание 2
 
-![gitlab-ci](ссылка на скриншот 2)
-![Ошибка при попытке вытащить image](ссылка на скриншот 2)
+![gitlab-ci](https://github.com/Toazter426/gitlab-hw/blob/master/img/img-hw-4.png)
+![Ошибка при попытке вытащить image](https://github.com/Toazter426/gitlab-hw/blob/master/img/img-hw-3.png)
 
