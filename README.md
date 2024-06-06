@@ -23,5 +23,5 @@
 ### Задание 2
 
 ![gitlab-ci](https://github.com/Toazter426/gitlab-hw/blob/master/img/img-hw-4.png)
-![Ошибка при попытке вытащить image](https://github.com/Toazter426/gitlab-hw/blob/master/img/img-hw-3.png)
+![Готовый пайплаин](https://github.com/Toazter426/gitlab-hw/blob/master/img/img-hw-5.png)
 
